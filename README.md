@@ -1,3 +1,12 @@
 # Portfolio
 # Portfolio landing page
-## Week 1 assignment
+Portfolio showcing my skills,education backgroung and briefly about myself
+## Author
+Paullete Adhiambo
+## Technology used
+HTML
+CSS
+## Authors Information
+paullete.adhiambo@student.moringaschool.com
+  
+  
